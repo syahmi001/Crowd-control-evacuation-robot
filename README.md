@@ -3,8 +3,8 @@ This repository is made after my IDP project
 
 First, this project used Arduino UNO and Raspberry Pi.
 
-In the files "Tutorial Arduino" and "Tutorial Raspberry Pi" are the codes that I used to test all my components either 
-they are working or not. These codes are also the initial set-up for my project. You might want to go through them in case
+In the files "Tutorial Arduino" and "Tutorial Raspberry Pi" are the codes that I used to test all my components to check either 
+they are working properly or not. These codes are also the initial set-up for my project. You might want to go through them in case
 when you have difficulty in running the "Full code".
 
 In the file "Full code (Arduino and Raspberry)", is the codes that I used to run my robot.
