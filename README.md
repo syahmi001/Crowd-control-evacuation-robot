@@ -24,6 +24,8 @@ For Raspberry Pi, my set-ups are:
 4. OpenCV version 3+
 5. Python 3
 
+OpenCV is used on the camera module to detect "signs" or markers that will guide and give instruction to the robot.
+
 For installation guide for OpenCV3, you can follow the installation guide here:
 https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/
 
